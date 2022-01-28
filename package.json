@@ -1,0 +1,24 @@
+{
+  "name": "country-cli",
+  "version": "1.0.0",
+  "description": "Adapted using a tutorial on [Medium](https://medium.com/@milz_/build-a-command-line-node-js-app-that-consumes-a-rest-api-1145e5f0df94).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreyjgong/country-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffreyjgong/country-cli/issues"
+  },
+  "homepage": "https://github.com/jeffreyjgong/country-cli#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "yargs": "^17.3.1"
+  }
+}
